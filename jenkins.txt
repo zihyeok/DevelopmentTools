@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Repository의 CI/CD를 구성하는 도구
 작성언어:자바
 김치찌개
+=======
+Repository의 CI/CD를 구성하는 도구
+>>>>>>> parent of d814b61 (징킨스 설명 추가)
