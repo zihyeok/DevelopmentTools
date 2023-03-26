@@ -3,5 +3,5 @@
  
  - jenkins
  - VScode
- slack
- jira
+ - slack
+ - jira
